@@ -63,7 +63,7 @@
 <ul dir="auto">
 <li>Linkedin: <a href="https://www.linkedin.com/in/SouzaArtioli/" rel="nofollow">https://www.linkedin.com/in/SouzaArtioli/</a></li>
 <li>Twitter: <a href="https://twitter.com/souza_artioli" rel="nofollow">https://twitter.com/souza_artioli</a></li>
-<li>Instagram: <a href="https://twitter.com/artioli](https://instagram.com/artioli0)0" rel="nofollow">https://instagram.com/artioli0</a></li>
+<li>Instagram: <a href="https://www.instagram.com/artioli0/" rel="nofollow">https://instagram.com/artioli0</a></li>
 </ul>
 <p dir="auto"><animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a48a0f5c368844d6364f096bcfa1f10a081db5912112982732a459805073f64f/68747470733a2f2f6d65646961312e74656e6f722e636f6d2f696d616765732f32636563613238383836623434396336383065363465636436613766613833382f74656e6f722e6769663f6974656d69643d3136373230303334" data-target="animated-image.originalLink"><img src="https://i.pinimg.com/originals/4d/f0/67/4df067587bde5bca6e5776a69b9ae3f3.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">

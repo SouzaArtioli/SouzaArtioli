@@ -14,4 +14,18 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SouzaArtioli&show_icons=true" />
 </picture>
    </a>
+
+
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaArtioli&layout=donut&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaArtioli&layout=donute"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaArtioli&layout=donut" />
+</picture>
+   </a>
  </div>

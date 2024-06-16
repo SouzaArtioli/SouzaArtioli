@@ -12,4 +12,4 @@
     <li>📝 Curriculo: https://github.com/SouzaArtioli/curriculo-MSA
     </li>
 </ul>
-<p>esenvolvedor TypeScript | React Native | Angular | Java | Spring Boot | NODEjs | NextJs | NestJs | SQL | AWS | Docker</p>
+<p>Desenvolvedor TypeScript | Angular | Java | Spring Boot | NODEjs | NextJs | SQLServer | AWS | Docker | JavaScript | React</p>

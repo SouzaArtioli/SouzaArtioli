@@ -1,6 +1,6 @@
 <h2>Seja Bem Vindo sou o Matheus Artioli</h2>
 <ul>
-    <li>💻 Desenvolvedor Fullstack com </li>
+    <li>💻 Desenvolvedor Fullstack com {Null}</li>
     <li>📚 Cursando Análise e Desenvolvimento de Sistemas | Universidade Cruzeiro Do Sul
     </li>
     <li>🎓 Formado em Desenvolvimento Web Full Stack pela Trybe

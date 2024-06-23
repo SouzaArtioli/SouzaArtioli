@@ -1,6 +1,6 @@
 <h2>Seja Bem Vindo sou o Matheus Artioli</h2>
 <ul>
-    <li>💻 Desenvolvedor Fullstack com TypeScript | Angular | Java | NODEjs | NextJs | SQLServer | AWS | Docker | JavaScript | React</li>
+    <li>💻 Desenvolvedor Fullstack com </li>
     <li>📚 Cursando Análise e Desenvolvimento de Sistemas | Universidade Cruzeiro Do Sul
     </li>
     <li>🎓 Formado em Desenvolvimento Web Full Stack pela Trybe
@@ -12,4 +12,3 @@
     <li>📝 Curriculo: https://github.com/SouzaArtioli/curriculo-MSA
     </li>
 </ul>
-<p>Desenvolvedor TypeScript | Angular | Java | NODEjs | NextJs | SQLServer | AWS | Docker | JavaScript | React</p>

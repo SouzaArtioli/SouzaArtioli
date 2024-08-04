@@ -36,6 +36,6 @@ Estou sempre aberto a feedback e sugestões! Se você tiver alguma ideia ou suge
 
 ## Contato
 
-Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/souzaartioli/) ou me enviar um e-mail para [meuemail@example.com](mailto:contatoartioli@gmail.com).
+Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/souzaartioli/) ou me enviar um e-mail para [contatoartioli@gmail.com](mailto:contatoartioli@gmail.com).
 
 Obrigado por visitar meu repositório de aprendizado!
